@@ -4,4 +4,5 @@ window.loading = function () {
   console.info('错误');
   console.wrring('警告');
   console.error('错误');
+  console.warn('console警告');
 }
