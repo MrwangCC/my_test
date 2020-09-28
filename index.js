@@ -3,4 +3,5 @@ window.loading = function () {
   console.log('控制台'); 
   console.info('错误');
   console.wrring('警告');
+  console.warn('console警告');
 }
